@@ -74,13 +74,13 @@ Main skills - building and configuring EPOS, training, client facing support and
 Assistant Manager
 
 Main skills - leadership and motivation, organization, sales, and goal setting and achieving targets, team management, problem solving.
-•	Organizing and running  educational, motivational and inspirational meetings.  
-•	Won “Top 10 Field Representetive” in the UK several times. 
-•	Setting and exceeding weekly targets personaly and with team. 
-•	Organizing and leading successful road trips and overcoming industry challenges on daily basic
+- Organizing and running  educational, motivational and inspirational meetings.  
+- Won “Top 10 Field Representetive” in the UK several times. 
+- Setting and exceeding weekly targets personaly and with team. 
+- Organizing and leading successful road trips and overcoming industry challenges on daily basic
 
 
-## Skills
+## TBC ****** Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -112,7 +112,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (December 2022 to April 2023) - TBC
+#### TBC ******** Makers Academy (December 2022 to April 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -125,10 +125,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - International Business Management
 - Bachelor’s Degree
-
-#### Any other qualifications
-
-TBC?
 
 ## Hobbies
 
