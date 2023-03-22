@@ -8,10 +8,12 @@ Ever since I was a child, I have been fascinated by puzzles. I find coding to be
 
 ## Projects - TBC
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+Name | Description |Tech stack
+----- | ------- | ------
+[FINAL PROJECT TBC](https://github.com/AmberG31/) | TBC  | TBC
+[AceBook](https://github.com/AmberG31/acebook-gelato-geniuses) | A facebook clone | MERN, MongoDB, React, Node.js, Express, Cypress, Jest
+[MakersBnB](https://github.com/joel-powell/makersbnb) | An AirBnB clone | PostgradeSQL, Sinatra, Ruby
+[Bank Tech Test](https://github.com/AmberG31/Bank_Tech_Test) | A test to write clean code  | JavaScript
 
 ## Work Experience
 
@@ -94,32 +96,37 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
+### Programing 
+* HTML5, CSS
+* MongoDB
+* JavaScript
+* Jest
+* Node.js
+* Express
+* React
+* Cypress
+* SQL
+* Ruby
+* Sinatra
+* MERN stack
+* GitHub
+* Postman
+* PostgreSQL
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+### Transversal  
+* Forward-looking 
+* Logical 
+* Observant
+* Strategic thinking 
+* Curious 
+* Self-learning
+* Relationship building
+* Problem-solving
 
 ## Education
 
-#### TBC ******** Makers Academy (December 2022 to April 2023)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (December 2022 to April 2023)
+As a graduate of the highly selective and intense Makers Academy Software Engineering Bootcamp, I have strengthened my programming skills through learning various concepts such as TDD, OOP, pair programming, and agile development. The course provided in-depth training on languages such as Ruby and JavaScript, as well as frameworks including Sinatra, React, Node.js, Express, and MERN stack. In addition, I gained practical experience in working with databases such as PostgreSQL and MongoDB, and developing web applications.
 
 #### V. A. Graiciunas School of Management, Lithuania (September 2009 to May 2012)
 
