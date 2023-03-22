@@ -126,7 +126,10 @@ Consider skills relevent to software development. Then consider your best skills
 ## Education
 
 #### Makers Academy (December 2022 to April 2023)
-As a graduate of the highly selective and intense Makers Academy Software Engineering Bootcamp, I have strengthened my programming skills through learning various concepts such as TDD, OOP, pair programming, and agile development. The course provided in-depth training on languages such as Ruby and JavaScript, as well as frameworks including Sinatra, React, Node.js, Express, and MERN stack. In addition, I gained practical experience in working with databases such as PostgreSQL and MongoDB, and developing web applications.
+16-week intensive development bootcamp
+
+- Focused on Agile methodologies and Object-oriented design.
+- Practiced Test Driven Development to ensure high-quality code.
 
 #### V. A. Graiciunas School of Management, Lithuania (September 2009 to May 2012)
 
