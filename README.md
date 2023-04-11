@@ -7,7 +7,7 @@ I have just graduated from a 5-month long intensive coding boot camp at Makers A
 
 Name | Description |Tech stack
 ----- | ------- | ------
-[PottyPal](https://github.com/AmberG31/) | MERN, MongoDB, React, Node.js, Express, Cypress, Jest, Tailwind
+[PottyPal](https://github.com/AmberG31/) | Project from scratch to search for toilets, with many features | MERN, MongoDB, React, Node.js, Express, Cypress, Jest, Tailwind
 [AceBook](https://github.com/AmberG31/acebook-gelato-geniuses) | A facebook clone | MERN, MongoDB, React, Node.js, Express, Cypress, Jest
 [MakersBnB](https://github.com/joel-powell/makersbnb) | An AirBnB clone | PostgradeSQL, Sinatra, Ruby
 [Bank Tech Test](https://github.com/AmberG31/Bank_Tech_Test) | A test to write clean code  | JavaScript
