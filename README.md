@@ -6,11 +6,11 @@ I seek a challenging role in a large corporation where I can expand my programmi
 Ever since I was a child, I have been fascinated by puzzles. I find coding to be similar in that it involves creating and connecting pieces to build something. The way programs communicate with one another and the endless possibilities of what can be built with a computer truly captivates me. I am thrilled to have found my passion in this field.   
 
 
-## Projects - TBC
+## Projects
 
 Name | Description |Tech stack
 ----- | ------- | ------
-[FINAL PROJECT TBC](https://github.com/AmberG31/) | TBC  | TBC
+[PottyPal](https://github.com/AmberG31/) | MERN, MongoDB, React, Node.js, Express, Cypress, Jest, Tailwind
 [AceBook](https://github.com/AmberG31/acebook-gelato-geniuses) | A facebook clone | MERN, MongoDB, React, Node.js, Express, Cypress, Jest
 [MakersBnB](https://github.com/joel-powell/makersbnb) | An AirBnB clone | PostgradeSQL, Sinatra, Ruby
 [Bank Tech Test](https://github.com/AmberG31/Bank_Tech_Test) | A test to write clean code  | JavaScript
