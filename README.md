@@ -1,8 +1,6 @@
 ## Amber Gintare Aleknaite
 
-I have just graduated a 5-month long intensive Makers Academy coding boot camp and now looking to pursue my career as a full-stack developer. After a successful 7-year tenure as an Operations Manager at Tesla, I decided it was time for a career change. 
-I possess a can-do attitude and firmly believe that if there is a problem, there is always a solution and if there is no solution, there is no point in worrying. I am results-driven, highly determined and hold myself accountable for achieving success with a strong emphasis on attention to detail and team motivation. 
-I seek a challenging role in a large corporation where I can expand my programming skills by networking with others and contribute to the success of the company by utilising my previous experience to support my peers and stakeholders. 
+I have just graduated from a 5-month long intensive coding boot camp at Makers Academy. Now  I am looking to pursue my career as a full-stack junior developer. After a successful 7-year tenure as an Operations Manager at Tesla, I decided it was time for a career change. I possess a can-do attitude and firmly believe that if there is a problem, there is always a solution and if there is no solution, there is no point in worrying. I am results-driven, highly determined and hold myself accountable for achieving success with a strong emphasis on attention to detail and team motivation. I seek a challenging role in a large corporation where I can expand my programming skills by networking with others and contribute to the success of the company by utilising my previous experience to support my peers and stakeholders.
 
 
 ## Projects
