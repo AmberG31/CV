@@ -10,7 +10,7 @@ Name | Description |Tech stack
 [PottyPal](https://github.com/AmberG31/Potty-pal) | Project from scratch to search for toilets, with many features | MERN, MongoDB, React, Node.js, Express, Cypress, Jest, Tailwind
 [AceBook](https://github.com/AmberG31/acebook-gelato-geniuses) | A facebook clone | MERN, MongoDB, React, Node.js, Express, Cypress, Jest
 [MakersBnB](https://github.com/joel-powell/makersbnb) | An AirBnB clone | PostgradeSQL, Sinatra, Ruby
-[Bank Tech Test](https://github.com/AmberG31/Bank_Tech_Test) | Simple banking app  | JavaScript
+[Bank Tech Test](https://github.com/AmberG31/Bank_Tech_Test) | Simple banking app  | JavaScript, Jest
 
 ## Work Experience
 
