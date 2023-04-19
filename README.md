@@ -7,8 +7,8 @@ Software developer graduate at Makers Academy looking for a junior role. After 7
 
 Name | Description |Tech stack
 ----- | ------- | ------
+[TimeSavyy](https://github.com/AmberG31/TimeSavyy)) | Current project. Project from scratch on Personal planner | MERN, PostgreSQL, React, Node.js, Express, Cypress, Jest, TypeScript, CSS
 [PottyPal](https://github.com/AmberG31/Potty-pal) | Project from scratch to search for toilets, with many features | MERN, MongoDB, React, Node.js, Express, Cypress, Jest, Tailwind
-[AceBook](https://github.com/AmberG31/acebook-gelato-geniuses) | A facebook clone | MERN, MongoDB, React, Node.js, Express, Cypress, Jest
 [MakersBnB](https://github.com/joel-powell/makersbnb) | An AirBnB clone | PostgradeSQL, Sinatra, Ruby
 [Bank Tech Test](https://github.com/AmberG31/Bank_Tech_Test) | Simple banking app  | JavaScript, Jest
 
