@@ -16,7 +16,7 @@ Name | Description |Tech stack
 
 **Tesla Motors LTD** (November 2015 to July 2022)  
 
-Vehicle Operations and Registrations Manager, UK & Ireland – July 2020 – July 2022
+#### Vehicle Operations and Registrations Manager, UK & Ireland – July 2020 – July 2022
 
 Main skills - conflict resolution, forward-thinking, analytical-thinking, problem solving, decision-making, multitasking, emotional intelligence, delegation.
 - Leading a team of 14 people across three departments - Registrations, Remarking and Fleet.
@@ -30,7 +30,7 @@ Improving the incoming post process for the UK, saving the company £12,000 per 
 
 
 
-Assistant Operations Manager, Vehicle Registrations (November 2019 – July 2020)
+#### Assistant Operations Manager, Vehicle Registrations (November 2019 – July 2020)
 
 Main skills - processes automation and integration, training, attention to detail, teamwork, relationship building, organisation.
 Overseeing all aspects of the registration process for both customers and internal vehicles, ensuring they were registered in a timely and compliant manner.
@@ -41,7 +41,7 @@ Overseeing all aspects of the registration process for both customers and intern
 
 
 
-Delivery Operations Specialist (August 2016 – November 2019)
+#### Delivery Operations Specialist (August 2016 – November 2019)
 
 Main skills - document management, process optimisation and cost reduction, project management, negotiation, self-learning, time management.
 - Managing the registration process, handling all documentation, and assisting with registration in Ireland and Netherlands.
@@ -50,7 +50,7 @@ Main skills - document management, process optimisation and cost reduction, proj
 
 
 
-Team Administrator (March 2016 to August 2016)
+#### Team Administrator (March 2016 to August 2016)
 
 Main skills - stakeholder management, collaboration, communication, process improvement, document security.
 - Collaborating cross-functionally with Sales, Service, Delivery, and Parts teams to improve customer satisfaction through better communication and processes.
@@ -59,7 +59,7 @@ Main skills - stakeholder management, collaboration, communication, process impr
 
 
 
-Senior Product Specialist (November 2015 to March 2016)
+#### Senior Product Specialist (November 2015 to March 2016)
 
 Main skills - operational management, product demonstration, customer service, CRM.
 - Greeting customers and guiding them through the sales process, on-boarding, client relationship management and product feedback.
@@ -68,8 +68,8 @@ Main skills - operational management, product demonstration, customer service, C
 
 
 
-**IMD Limited, London** (November 2012 to May 2015)  
-Assistant Manager
+**IMD Limited**, London (November 2012 to May 2015)  
+#### Assistant Manager
 
 Main skills - leadership and motivation, sales, goal setting and achieving targets, team management.
 - Organising and running educational, motivational and inspirational meetings.
