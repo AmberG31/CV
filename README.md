@@ -87,7 +87,7 @@ Main skills - leadership and motivation, sales, goal setting and achieving targe
 Main skills - resilience, curiosity, analytical thinking, self-learner, team work, communication, time-management. 
 - SQL Object-Oriented Programming, Model View Controller design patterns, SOLID principle. 
 - Test Driven Development to write high quality code using Ruby, JavaScript, RSpec, Jest, Majestic, Cypress, HTML, CSS.
-- nDebugging our own and pre-written programs.
+- Debugging our own and pre-written programs.
 - Agile principles, pair programming daily, group projects, stand-ups, retros, and sprint planning.
 - Web frameworks, version control, and CI/CD to create full stack web apps using Sinatra, React, Node, SQL, PostgreSQL, MongoDB etc.
 - Git: branching, pull requests and code reviews
