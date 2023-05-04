@@ -33,7 +33,7 @@ Improving the incoming post process for the UK, saving the company £12,000 per 
 #### Assistant Operations Manager, Vehicle Registrations (November 2019 – July 2020)
 
 Main skills - processes automation and integration, training, attention to detail, teamwork, relationship building, organisation.
-Overseeing all aspects of the registration process for both customers and internal vehicles, ensuring they were registered in a timely and compliant manner.
+- Overseeing all aspects of the registration process for both customers and internal vehicles, ensuring they were registered in a timely and compliant manner.
 - Handling all government grants provided by the Office for Low Emission Vehicles (OLEV) and automated the application process, reducing workload of 15 people.
 - Managing country-specific homologation tasks for new product releases and coordinating with Sales & Delivery and Order Operations teams to process pre-delivery and day of delivery documents accurately.
 - Improving the de-registration process and return cases, regularly updating the CRM system, optimising vehicle registration processes for existing markets.
